@@ -16,7 +16,6 @@ public class ConjutosBaguncados {
 		conjunto.add("Teste");
 		conjunto.add(3);
 		conjunto.add('x');
-		conjunto.add()
 		
 		System.out.println("Tamanho é" + conjunto.size());
 		
